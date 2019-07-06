@@ -7,5 +7,5 @@ To use this notebook...
 5. Save to Desktop (or Downloads) NOT as "text document", but as "all files" and type ".ipynb" at the end of the file name. Click save. 
 6. Launch Anaconda Navigator
 7. From Anaconda Navigator, launch Jupyter Notebook
-8. Find location where .ipynb file was saved, click to open
+8. Find location where relatwinity.ipynb file was saved, click to open
 9. Use SHIFT+ENTER to run through each cell of the notebook! 
